@@ -1,3 +1,7 @@
+<p align="center"> 
+  Thank you for visit <br><img src="https://profile-counter.glitch.me/darrenzzy/count.svg" />
+</p>
+
 ### Hi there 👋
 
 <!--
