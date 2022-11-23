@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=6312680482&type=1&number=8&show_percent=1)](https://music.163.com)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=6312680482&type=1&number=8&show_percent=1)(https://music.163.com/?id=6312680482#/user/songs/rank?id=121386460)
 
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
