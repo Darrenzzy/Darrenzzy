@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-<a href="https://github.com/Darrenzzy"><img src="https://github-readme-stats.vercel.app/api?username=Darrenzzy&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrenzzy&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Darrenzzy&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrenzzy&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=6312680482&type=1&number=8&show_percent=1)(https://music.163.com/?id=6312680482#/user/songs/rank?id=121386460)
+![Netease recently played](https://netease-recent-profile.vercel.app/?id=6312680482&type=1&number=8&show_percent=1)
 
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
