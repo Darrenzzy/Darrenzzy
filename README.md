@@ -1,6 +1,6 @@
 <p align="center"> 
 <!--   Thank you for visit <br><img src="https://profile-counter.glitch.me/darrenzzy/count.svg" /> -->
-    Thank you for visit <br> <img src="https://komarev.com/ghpvc/?username=darrenzzy" />
+    Thank you for visit <br> <img src="https://komarev.com/ghpvc/?username=darrenzzy&base=3700" />
   
 </p>
 
